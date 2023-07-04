@@ -1,63 +1,9 @@
-# Project Title
+# Length-dependent costs on optimisation problems with long-range connections
 
-One Paragraph of project description goes here
+## Description
 
-## Getting Started
+This project aims to characterize the speed of spreading driven by dispersal events with broadly distributed jump distances that undergo length-dependent constraints. We employ lattice-based simulations and scaling arguments to investigate the impact on the range of the dispersal kernel. While numerous models have been developed to describe spreading phenomena ranging from plant dispersal to viruses in computer networks, these models rarely incorporate the constraint of distance traveled. However, in various scenarios such as epidemics and plant dispersal, the distance traveled plays a crucial role. In this project, we present two stochastic models for spreading: one occurring on a fixed network and another exhibiting more homogeneous behavior in space and time. By employing different functions to represent the importance of distances traveled or the length of the links, we demonstrate how diverse patterns can emerge. Additionally, assuming a controlled approach to implementing the cost, we provide theoretical results supported by simulations, whether the objective is to accelerate or decelerate the spreading process.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-
-## Authors
-
-* **Tom Suter** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 
 ## Acknowledgments
